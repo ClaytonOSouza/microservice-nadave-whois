@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "restify": "^8.4.0",
-    "whois-json": "^2.0.4"
+    "whois-json": "^2.1.0"
   }
 }
